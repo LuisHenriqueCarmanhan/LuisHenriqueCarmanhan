@@ -1,5 +1,8 @@
 ## Hello Word 👋
-<h2 align="left">My name is Luis and I'm a control and automation engineer, from Brazil </h2>
+<h2 align="left">Brazilian Control and Automation Engineering student with a strong interest in applied programming and engineering problem-solving.
+Currently studying Python for scientific and engineering applications, and developing proficiency in English and Italian.
+
+This GitHub is used to share academic studies, programming projects, and practical experiments related to engineering and automation. </h2>
 
 ###
 
