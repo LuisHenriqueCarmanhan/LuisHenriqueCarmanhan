@@ -25,4 +25,4 @@ This GitHub is used to share academic studies, programming projects, and practic
 
 ### 🌐 Connect with me
 
-<a href="https://www.linkedin.com/in/luis-henrique-carmanhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/luis_hcarmanhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
+<a href="https://www.linkedin.com/in/luishenriquecarmanhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/luis_hcarmanhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
