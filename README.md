@@ -29,6 +29,4 @@ This GitHub is used to share academic studies, programming projects, and practic
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
