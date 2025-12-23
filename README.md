@@ -1,4 +1,4 @@
-## Hello Word 👋🚀
+## Hello World 👋🚀
 <h2 align="left">Brazilian Control and Automation Engineering student with a strong interest in applied programming and engineering problem-solving ⚙️
 Currently studying Python for scientific and engineering applications, and developing proficiency in English and Italian.
 
