@@ -16,20 +16,9 @@ This GitHub is used to share academic studies, programming projects, and practic
 
 ### 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueCarmanhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueCarmanhan&theme=tokyonight&layout=compact&custom_title=Top%20Langs&langs_count=5" 
-  />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueCarmanhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueCarmanhan&theme=tokyonight&layout=compact&custom_title=Top%20Langs&langs_count=5" alt="Top Langs" height="192" />
 </p>
 
 <br clear="all" />
