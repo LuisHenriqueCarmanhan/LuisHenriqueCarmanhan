@@ -2,9 +2,10 @@
 
 **`Future Control and Automation Engineer`**
 
-Brazilian Control and Automation Engineering student with a strong interest in applied programming and engineering problem-solving ⚙️. Currently studying **Python** for scientific and engineering applications, and developing proficiency in **English** and **Italian**.
+### 👨‍💻 About Me
+I am a **17-year-old** Brazilian Control and Automation Engineering student with a strong interest in applied programming and engineering problem-solving ⚙️. Currently, I am focused on mastering **Python** for scientific and engineering applications, while also developing my proficiency in **English** and **Italian**.
 
-This GitHub is used to share academic studies, programming projects, and practical experiments related to engineering and automation 📂.
+This GitHub is used to share my academic journey, programming projects, and practical experiments related to engineering and automation 📂.
 
 ---
 
