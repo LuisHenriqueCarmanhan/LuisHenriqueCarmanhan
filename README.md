@@ -14,15 +14,6 @@ This GitHub is used to share academic studies, programming projects, and practic
 
 <br/><br/>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueCarmanhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueCarmanhan&theme=tokyonight&layout=compact&custom_title=Top%20Langs&langs_count=5" alt="Top Langs" height="192" />
-</p>
-
-<br clear="all" />
-
 ### 🌐 Connect with me
 
 <a href="https://www.linkedin.com/in/luishenriquecarmanhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/luis_hcarmanhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
